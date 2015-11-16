@@ -1,0 +1,38 @@
+SCIENTIFIC CALCULATOR. Copyright (C) 2015 AVICHAL AGRAWAL 111403058
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+I have taken my mini project as a Scientific Calculator which deals with 3 types of operations:-
+1. Basic
+2. Geometric
+3. Advanced
+
+The Basic Operations deals with the following simple operations of a basic calculator:-
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exponential Operations
+
+The Geometric Operation deals with the following operations:-
+1. Trigonometric Calculations
+2. Polar Coordinates Conversion
+3. Area Volume
+4. Decimal Conversion
+5. Polynomial Equation Solving
+
+The Advanced Operations deals with the following:-
+1. Differentiation
+2. Integeration
+3. Differential Equations
+4. Complex Numbers
+5. Vectors
+6. Statistics
+7. Graphical
+
+I have made a demo video file and a jpeg file which shows the working of my project.
+
